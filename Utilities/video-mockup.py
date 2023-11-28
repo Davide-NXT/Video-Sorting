@@ -20,4 +20,4 @@ def create_sample_videos(num_videos, directory):
     return f"{num_videos} sample .mp4 files have been created in '{directory}'."
 
 # Example usage: create 5 sample .mp4 files in the 'videos' directory
-create_sample_videos(50, "../New-Videos")
+create_sample_videos(150, "../New-Videos")
